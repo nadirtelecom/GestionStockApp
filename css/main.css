@@ -1,0 +1,172 @@
+body
+    {
+    max-width: 45%;
+    margin: auto;
+    background-image: url("../image.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+   }
+.contenaire
+    {
+    border: none;
+    border-radius:6px;
+    background-color:rgba(0, 0, 0, 0.616);
+    margin-top: 10%;
+    padding: 15px;
+    font-family: 'Shippori Mincho', serif;
+    font-weight: bolder;
+    }
+
+h1
+    {
+    text-align: center;
+    letter-spacing: 5px;
+    color:#00B0F3;
+    font-family: 'Shippori Mincho', serif;
+    }
+h3
+{
+    text-align: center;
+    color: #00B0F3;
+    font-family: 'Shippori Mincho', serif;  
+}
+h2
+{
+    text-align: center;
+    color:teal;
+    font-family: 'Shippori Mincho', serif;  
+
+}
+
+
+#SignUpSection
+    {
+    display:none;
+    }
+
+label
+{
+    color:white;
+    font-family:'Shippori Mincho', serif;   
+}
+
+input
+{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: none;
+    border-radius: 3px;
+    box-sizing: border-box;
+    color:black;
+    font-family: 'Shippori Mincho', serif;
+}
+
+input:focus
+{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: none;
+    border-radius: 3px;
+    background-color:#00B0F3;
+                
+    color:black;
+    font-family: 'Shippori Mincho', serif;        
+}
+
+.btn1 
+{
+    width: 100%;
+    padding: 10px 15px;
+    margin: 5px 0;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    background-color: #00B0F3;
+    font-family: 'Shippori Mincho', serif;
+    }
+
+.btn2
+ {
+    width: 100%;
+    padding: 10px 15px;
+    margin: 5px 0;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    background-color: #00B0F3;
+    font-family: 'Shippori Mincho', serif;
+    }
+
+.btn1:hover 
+{ 
+    font-weight: bold;   
+    padding: 10px 15px;
+    margin: 5px 0;
+    color: white;
+    background-color:#00B0F3;
+    font-family:serif;
+    font-size: medium;
+}
+.btn2:hover 
+{
+    font-weight: bold;
+    padding: 10px 15px;
+    margin: 5px 0;
+    color: white;
+    background-color: #00B0F3;
+    font-family: serif; 
+    font-size: medium;   
+}
+
+#infosection
+{
+    display: none;
+}
+footer
+{
+    max-width: 100%;
+    background-color:rgba(0, 0, 0, 0.616);
+    color:white;
+    height:20px;
+    border: none;
+    border-radius: 3px;
+    text-align: center;
+    font-family: 'Shippori Mincho', serif; 
+    position:relative;
+    bottom: 0;   
+}
+
+.btn3
+ {
+    display:none;
+    width: 100%;
+    padding: 10px 15px;
+    margin: 5px 0;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    background-color: #00B0F3;
+    font-family: 'Shippori Mincho', serif;
+    }
+
+.btn3:hover 
+{ 
+    font-weight: bold;   
+    padding: 10px 15px;
+    margin: 5px 0;
+    color: white;
+    background-color:#00B0F3;
+    font-family:serif;
+    font-size: medium;
+}
+
+
+
+
+
